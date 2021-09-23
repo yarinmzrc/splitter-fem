@@ -10,6 +10,9 @@ body {
 
 input[type="number"] {
   text-align: center;
+  font-family: "Space Mono", monospace;
+  color: hsl(183, 100%, 15%);
+  font-size: 1rem;
 }
 .container {
   height: 100vh;
